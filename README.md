@@ -41,11 +41,19 @@ I'm a Computer Science Engineering student passionate about programming, problem
 
 - GitHub: [https://github.com/kumaruttkarsh30-bit](https://github.com/kumaruttkarsh30-bit)
 - Email: [kumaruttkarsh30@gmail.com](mailto\:kumaruttkarsh30@gmail.com)
-- LinkedIn: [Kumar Uttkarsh]\([https://www.linkedin.com/in/kumar-uttkarsh-650b91382/](https://www.linkedin.com/in/kumar-uttkarsh-650b91382/))
+- LinkedIn: [Kumar Uttkarsh](https://www.linkedin.com/in/kumar-uttkarsh-650b91382/)
 
 ---
 
-*Always learning. Always building. Always improving.*
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+- **Status:** Currently in Development
+- **Description:** Developing a system to manage books, student records and library operations.
+- **Technologies:** HTML, CSS, JavaScript, SQL
+
+---
 
 
 ## 📊 GitHub Statistics
