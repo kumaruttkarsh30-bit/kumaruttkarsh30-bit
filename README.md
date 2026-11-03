@@ -34,3 +34,12 @@ I'm a Computer Science Engineering student passionate about programming, problem
 ---
 
 *Always learning. Always building. Always improving.*
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumaruttkarsh30-bit&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaruttkarsh30-bit&layout=compact&theme=tokyonight" height="165" />
+</p>
+
